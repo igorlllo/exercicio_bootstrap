@@ -1,0 +1,8 @@
+.form-container {
+    max-width: 800px; /* Limita a largura do formulário */
+    padding: 40px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda */
+    border-radius: 8px; /* Arredondamento dos cantos */
+    background-color: #f9f9f9; /* Cor de fundo suave */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
